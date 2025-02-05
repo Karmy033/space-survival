@@ -168,5 +168,5 @@ game.onUpdateInterval(1000, function () {
         . . . . c b a c c b b b c . . . 
         . . . . c b b a a 6 b c . . . . 
         . . . . . . b 6 6 c c . . . . . 
-        `, randint(0, -50), randint(10, 50))
+        `, randint(-50, 50), randint(-50, 50))
 })
